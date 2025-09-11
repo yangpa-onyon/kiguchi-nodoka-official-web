@@ -1,0 +1,11 @@
+---
+layout: framework
+---
+
+<div class="articles">
+  {% if page.banner == nil %}
+    {% assign banner = page.title %}
+  {% endif %}
+
+  {{ content }}
+</div>
