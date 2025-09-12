@@ -1,5 +1,5 @@
 ---
 layout: posts
-title: 업데이트 기록
+title: 다운로드
 lang: "ko"
 ---

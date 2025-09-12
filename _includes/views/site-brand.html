@@ -1,3 +1,11 @@
-<a class="site-brand-inner" rel="author" href="{{ "/" | relative_url }}">
-  <img class="site-favicon" title="{{ site.title | escape }}" src="/assets/images/identity.png" onerror="this.style.display='none'">
-</a>
+
+{%- if page.lang -%}
+  <a class="site-brand-inner" rel="author" href="/{{page.lang}}">
+    <img class="site-favicon" title="{{ site.title | escape }}" src="/assets/images/identity.png" onerror="this.style.display='none'">
+  </a>
+{%- else -%}
+  <a class="site-brand-inner" rel="author" href="/">
+    <img class="site-favicon" title="{{ site.title | escape }}" src="/assets/images/identity.png" onerror="this.style.display='none'">
+  </a>
+{%- endif -%}
+

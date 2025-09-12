@@ -5,10 +5,6 @@ layout: articles
 {{ content }}
 
 <div class="articles">
-  {% if page.banner == nil %}
-    {% assign banner = page.title %}
-  {% endif %}
-
   {{ content }}
 
   {% include views/pagination.html %}
