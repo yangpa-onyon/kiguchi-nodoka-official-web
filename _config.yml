@@ -111,6 +111,10 @@ site_langs:
     url: ko
     img: /assets/images/flags/KR@3x.png
     text: 한국어
+  - lang: ja
+    url: ja
+    img: /assets/images/flags/JP@3x.png
+    text: 日本語
 
 # You can choose a theme color
 # Default theme colors as below:

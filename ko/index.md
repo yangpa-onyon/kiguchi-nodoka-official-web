@@ -17,13 +17,13 @@ lang: "ko"
 
 성대에서 만들어진 소리가 혀, 입술, 비강을 지나며 공명하는 과정을 시간에 따라 실제처럼 변화시키기 때문에, 단순한 자음과 모음의 나열을 넘어 설득력 있는 음색으로 노래할 수 있는 것이 특징입니다.
 
-* [VCCV 영어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.0/KIGUCHI_NODOKA_EN.zip)
+* [VCCV 영어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.1/KIGUCHI_NODOKA_EN.zip)
 
-* [연속음 일본어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.0/KIGUCHI_NODOKA_JA.zip)
+* [연속음 일본어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.1/KIGUCHI_NODOKA_JA.zip)
 
-* [연속음 toki pona 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.0/KIGUCHI_NODOKA_TOK.zip)
+* [연속음 toki pona 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.1/KIGUCHI_NODOKA_TOK.zip)
 
-* ~~VCV 한국어 음원 다운로드~~ Coming soon...
+* ~~CVC 한국어 음원 다운로드~~ Coming soon...
 
 * ~~CVV 중국어 음원 다운로드~~ Coming soon...
 
