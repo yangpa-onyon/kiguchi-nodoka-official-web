@@ -16,13 +16,15 @@ Kiguchi Nodoka (機口喉歌) is an inanimate UTAU voicebank project inspired by
 
 Because the sound produced at the glottis is modeled as it resonates through the tongue, lips, and nasal cavity, changing realistically over time, Nodoka can sing with a convincing timbre, beyond a simple sequence of isolated consonants and vowels.
 
-* [VCCV English voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.1/KIGUCHI_NODOKA_EN.zip)
+* [VCCV English voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_EN.zip)
 
-* [VCV Japanese voicebank download (日本語連続音)](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.1/KIGUCHI_NODOKA_JA.zip)
+* [VCV Japanese voicebank download (日本語連続音)](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_JA.zip)
 
-* [VCV toki pona voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.1.1/KIGUCHI_NODOKA_TOK.zip)
+* [VCV Korean voicebank download (한국어 VCV)](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_KO.zip)
 
-* ~~CVC Korean voicebank download~~ Coming soon...
+* [VCV toki pona voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_TOK.zip)
+
+  * toki pona requires a separate [phonemizer plugin](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/TokiPonaPhonemizer.dll) to be installed.
 
 * ~~CVV Chinese voicebank download~~ Coming soon...
 
