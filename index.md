@@ -10,13 +10,13 @@ heading: " "
 
 ![Kiguchi Nodoka](/assets/images/images/kiguchi_nodoka.png)
 
-# Kiguchi Nodoka?
+## Kiguchi Nodoka?
 
 Kiguchi Nodoka (機口喉歌) is an inanimate UTAU voicebank project inspired by Adachi Rei. It generates voice without a human voice actor, using only a physics-based simulation of the vocal tract.
 
 Because the sound produced at the glottis is modeled as it resonates through the tongue, lips, and nasal cavity, changing realistically over time, Nodoka can sing with a convincing timbre, beyond a simple sequence of isolated consonants and vowels.
 
-## stable (beta 0.2.0)
+### stable (beta 0.2.0)
 
 * [VCCV English voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_EN.zip)
 
@@ -34,7 +34,7 @@ Because the sound produced at the glottis is modeled as it resonates through the
 
 * doppeltler is recommended as a resampler for all voicebank.
 
-## preview (beta 0.3.0 preview 1)
+### preview (beta 0.3.0 preview 1)
 
 * [VCCV English voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_EN.zip)
 
@@ -58,7 +58,7 @@ Because the sound produced at the glottis is modeled as it resonates through the
 
 (ustx: [goldenriver8](https://youtu.be/Ho5hrOG2DBc?feature=shared))
 
-# Vocal tract simulation?
+## Vocal tract simulation?
 
 Human voice production is often described by a source–filter model.
 

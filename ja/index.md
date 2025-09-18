@@ -11,13 +11,13 @@ lang: "ja"
 
 ![機口喉歌](/assets/images/images/kiguchi_nodoka.png)
 
-# 機口喉歌?
+## 機口喉歌?
 
 機口喉歌は足立レイにインスピレーションを受けて作られた無生物UTAU音源です。声優の録音なしで、物理ベースの発声器シミュレーションだけで声を作り出します。
 
 声帯で作られた音が舌、唇、鼻腔を過ぎて共鳴する過程を時間とともに実際のように変化させるので、単純な子音と母音のリストを越えて説得力のある音色で歌えるのが特徴です。
 
-## 安定版（ベータ 0.2.0)
+### 安定版（ベータ 0.2.0)
 
 * [連続音日本語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_JA.zip)
 
@@ -35,7 +35,7 @@ lang: "ja"
 
 * すべての音源はリサンプラーとしてdoppeltlerをお勧めします。
 
-## プレビュー版（ベータ 0.3.0 プレビュー 1）
+### プレビュー版（ベータ 0.3.0 プレビュー 1）
 
 * [連続音日本語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_JA.zip)
 
@@ -60,7 +60,7 @@ lang: "ja"
 
 (ustx: [goldenriver8](https://youtu.be/Ho5hrOG2DBc?feature=shared))
 
-# 発声機関シミュレーション？
+## 発声機関シミュレーション？
 
 人の声はしばしば「ソース - フィルタモデル」として説明できます。
 

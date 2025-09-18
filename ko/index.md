@@ -11,13 +11,13 @@ lang: "ko"
 
 ![키구치 노도카](/assets/images/images/kiguchi_nodoka.png)
 
-# 키구치 노도카?
+## 키구치 노도카?
 
 키구치 노도카(機口喉歌)는 아다치 레이에 영감을 받아 만들어진 무생물 UTAU 음원입니다. 성우의 녹음 없이, 물리 기반 발성 기관 시뮬레이션만을 통해 목소리를 만들어냅니다.
 
 성대에서 만들어진 소리가 혀, 입술, 비강을 지나며 공명하는 과정을 시간에 따라 실제처럼 변화시키기 때문에, 단순한 자음과 모음의 나열을 넘어 설득력 있는 음색으로 노래할 수 있는 것이 특징입니다.
 
-## 안정화 버전 (beta 0.2.0)
+### 안정화 버전 (beta 0.2.0)
 
 * [VCV 한국어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_KO.zip)
 
@@ -35,7 +35,7 @@ lang: "ko"
 
 * 모든 음원은 리샘플러로 doppeltler를 추천합니다.
 
-## 프리뷰 버전 (beta 0.3.0 preview 1)
+### 프리뷰 버전 (beta 0.3.0 preview 1)
 
 * [VCV 한국어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_KO.zip)
 
@@ -59,7 +59,7 @@ lang: "ko"
 
 (ustx: [goldenriver8](https://youtu.be/Ho5hrOG2DBc?feature=shared))
 
-# 발성기관 시뮬레이션?
+## 발성기관 시뮬레이션?
 
 사람의 목소리는 흔히 '소스 - 필터 모델'로 설명할 수 있습니다.
 
