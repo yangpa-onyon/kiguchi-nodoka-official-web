@@ -17,6 +17,8 @@ lang: "ko"
 
 성대에서 만들어진 소리가 혀, 입술, 비강을 지나며 공명하는 과정을 시간에 따라 실제처럼 변화시키기 때문에, 단순한 자음과 모음의 나열을 넘어 설득력 있는 음색으로 노래할 수 있는 것이 특징입니다.
 
+## 안정화 버전 (beta 0.2.0)
+
 * [VCV 한국어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_KO.zip)
 
 * [VCCV 영어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_EN.zip)
@@ -33,9 +35,29 @@ lang: "ko"
 
 * 모든 음원은 리샘플러로 doppeltler를 추천합니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slL1QwSWpvI?si=WrZ83hVeWAhk1DkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 프리뷰 버전 (beta 0.3.0 preview 1)
 
-(원곡: [Portal 2: End Credits Song 'Want You Gone' by Jonathan Coulton](https://youtu.be/dVVZaZ8yO6o?feature=shared))
+* [VCV 한국어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_KO.zip)
+
+* [VCCV 영어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_EN.zip)
+
+* [연속음 일본어 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_JA.zip)
+
+* [연속음 toki pona 음원 다운로드](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_TOK.zip)
+
+  * toki pona는 별도의 [포네마이저 플러그인](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/TokiPonaPhonemizer.dll) 설치가 필요합니다.
+
+* ~~CVV 중국어 음원 다운로드~~ Coming soon...
+
+* ~~VCV 타갈로그어(필리핀어) 음원 다운로드~~ Coming soon...
+
+* 모든 음원은 리샘플러로 doppeltler를 추천합니다.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-0FhxAVppM?si=gFeDELW0zvrx8Vuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+(원곡: [목성은 사랑을 한다 - 상록수](https://youtu.be/YfbYaT-PiKc?feature=shared))
+
+(ustx: [goldenriver8](https://youtu.be/Ho5hrOG2DBc?feature=shared))
 
 # 발성기관 시뮬레이션?
 

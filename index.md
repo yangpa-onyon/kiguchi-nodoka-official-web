@@ -16,6 +16,8 @@ Kiguchi Nodoka (機口喉歌) is an inanimate UTAU voicebank project inspired by
 
 Because the sound produced at the glottis is modeled as it resonates through the tongue, lips, and nasal cavity, changing realistically over time, Nodoka can sing with a convincing timbre, beyond a simple sequence of isolated consonants and vowels.
 
+## stable (beta 0.2.0)
+
 * [VCCV English voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_EN.zip)
 
 * [VCV Japanese voicebank download (日本語連続音)](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_JA.zip)
@@ -32,9 +34,29 @@ Because the sound produced at the glottis is modeled as it resonates through the
 
 * doppeltler is recommended as a resampler for all voicebank.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slL1QwSWpvI?si=WrZ83hVeWAhk1DkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## preview (beta 0.3.0 preview 1)
 
-(Original song in the demo: [Portal 2: End Credits Song 'Want You Gone' by Jonathan Coulton](https://youtu.be/dVVZaZ8yO6o?feature=shared))
+* [VCCV English voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_EN.zip)
+
+* [VCV Japanese voicebank download (日本語連続音)](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_JA.zip)
+
+* [VCV Korean voicebank download (한국어 VCV)](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_KO.zip)
+
+* [VCV toki pona voicebank download](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_TOK.zip)
+
+  * toki pona requires a separate [phonemizer plugin](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/TokiPonaPhonemizer.dll) to be installed.
+
+* ~~CVV Chinese voicebank download~~ Coming soon...
+
+* ~~VCV Tagalog(Filipino) voicebank download~~ Coming soon...
+
+* doppeltler is recommended as a resampler for all voicebank.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-0FhxAVppM?si=gFeDELW0zvrx8Vuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+(Original song: [목성은 사랑을 한다 - 상록수](https://youtu.be/YfbYaT-PiKc?feature=shared))
+
+(ustx: [goldenriver8](https://youtu.be/Ho5hrOG2DBc?feature=shared))
 
 # Vocal tract simulation?
 
