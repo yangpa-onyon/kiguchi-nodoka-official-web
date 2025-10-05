@@ -17,41 +17,21 @@ lang: "ja"
 
 声帯で作られた音が舌、唇、鼻腔を過ぎて共鳴する過程を時間とともに実際のように変化させるので、単純な子音と母音のリストを越えて説得力のある音色で歌えるのが特徴です。
 
-### 安定版（ベータ 0.2.0)
+* [連続音日本語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview2/KIGUCHI_NODOKA_JA.zip)
 
-* [連続音日本語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_JA.zip)
+* [VCCV英語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview2/KIGUCHI_NODOKA_EN.zip)
 
-* [VCCV英語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_EN.zip)
+* [VCV韓国語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview2/KIGUCHI_NODOKA_KO.zip)
 
-* [VCV韓国語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_KO.zip)
+* [連続音トキポナ音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview2/KIGUCHI_NODOKA_TOK.zip)
 
-* [連続音トキポナ音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/KIGUCHI_NODOKA_TOK.zip)
-
-  * トキポナは別の[ポネマイザー](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.2.0/TokiPonaPhonemizer.dll)のインストールが必要です。
+  * トキポナは別の[ポネマイザー](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview2/TokiPonaPhonemizer.dll)のインストールが必要です。
 
 * ~~CVV中国語音源ダウンロード~~ Coming soon...
 
 * ~~VCVタガログ語（フィリピン語）音源ダウンロード~~ Coming soon...
 
-* すべての音源はリサンプラーとしてdoppeltlerをお勧めします。
-
-### プレビュー版（ベータ 0.3.0 プレビュー 1）
-
-* [連続音日本語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_JA.zip)
-
-* [VCCV英語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_EN.zip)
-
-* [VCV韓国語音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_KO.zip)
-
-* [連続音トキポナ音源ダウンロード](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/KIGUCHI_NODOKA_TOK.zip)
-
-  * トキポナは別の[ポネマイザー](https://github.com/yangpa-onyon/kiguchi-nodoka-official-web/releases/download/beta_0.3.0_preview1/TokiPonaPhonemizer.dll)のインストールが必要です。
-
-* ~~CVV中国語音源ダウンロード~~ Coming soon...
-
-* ~~VCVタガログ語（フィリピン語）音源ダウンロード~~ Coming soon...
-
-* すべての音源はリサンプラーとしてdoppeltlerをお勧めします。
+* すべての音源はリサンプラーとしてmoresamplerをお勧めします。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y-0FhxAVppM?si=gFeDELW0zvrx8Vuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
